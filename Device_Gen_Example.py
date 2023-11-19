@@ -2,7 +2,7 @@ import requests
 
 url = "https://tiktok-device-registeration.p.rapidapi.com/Tiktok_Device_Gen/"
 
-rapid_key='' 
+rapid_key='c794571361msha6b9de9562c31dfp1b88afjsn0db3dd2a97bf' 
 
 querystring = {
   "Proxy":"guinnessgshep_gmail_com:Akmantar1@la.residential.rayobyte.com:8000"
