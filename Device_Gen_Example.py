@@ -5,7 +5,7 @@ url = "https://tiktok-device-registeration.p.rapidapi.com/Tiktok_Device_Gen/"
 rapid_key='c794571361msha6b9de9562c31dfp1b88afjsn0db3dd2a97bf' 
 
 querystring = {
-  "Proxy":"username:password@host:port",
+  "Proxy":"customer-guinnessgshep:moonwolf@pr.oxylabs.io:10000",
   "Country":"us"
 }
 
